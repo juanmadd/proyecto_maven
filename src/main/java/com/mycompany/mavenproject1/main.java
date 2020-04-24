@@ -7,6 +7,7 @@ package com.mycompany.mavenproject1;
 public class main {
     public static void main(String[] args) {
         System.out.println("Esto es un proyecto en maven");
+        System.out.println("proyecto modificado");
     }
     
 }
